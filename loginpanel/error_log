@@ -1,0 +1,1 @@
+[02-Feb-2016 05:23:36 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/xcteam/public_html/xc16test/loginpanel/receive_app_request.php on line 113
